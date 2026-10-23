@@ -1,0 +1,14 @@
+Standard PR Approval Thresholds:
+Procurement requests (PR) under $1,000 only require direct supervisor approval. Requests between $1,000 and $5,000 require Department Head approval. Any PR exceeding $5,000 requires both Purchasing Director and CFO approval.
+
+IT Equipment & Software Requests:
+All IT hardware (laptops, monitors, servers) and SaaS subscriptions must include an approved IT Security Clearance Ticket number attached to the PR before submission.
+
+Emergency Procurement Procedure:
+Emergency PRs bypass standard 5-day vendor bidding only if operational downtime exceeds $10,000/hour. A post-facto justification form must be signed by the VP of Operations within 48 hours.
+
+Rejected PR Resolution:
+If a PR is rejected due to budget codes or missing quotes, the requester must update the line items in the portal and click 'Resubmit for Review' rather than creating a duplicate PR number.
+
+Vendor Quotation Rules:
+Purchases below $2,500 require at least 1 written vendor quote. Purchases between $2,500 and $10,000 require 3 competitive vendor quotes attached as PDFs.

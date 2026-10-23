@@ -1,0 +1,11 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.9.0
+torch>=2.4.0
+transformers>=4.51.0
+peft>=0.13.0
+accelerate>=1.0.0
+bitsandbytes>=0.46.1
+sentencepiece>=0.2.0
+chromadb>=0.5.15
+sentence-transformers>=3.2.0
